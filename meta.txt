@@ -1,0 +1,4 @@
+Name       = Trainer Sensor
+Version    = 1.0.0
+Essentials = 21.1, 20.1
+Credits    = Drimer (original), Hydr3ig0n
